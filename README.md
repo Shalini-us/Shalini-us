@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shalini-us
 - 👀 I’m interested in Data
-- 🌱 I’m currently learning Data Analyst Tools
+- 🌱 I’m currently learning Data Analytics
 - 💞️ I’m learning from Simplilearn in collaboration with IBM 
 - 📫 How to reach me @shalinisagara1994@gmail.com
 
