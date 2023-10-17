@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shalini-us
-- 👀 I’m interested in Data
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m learning from Simplilearn in collaboration with IBM 
+- 👀 I’m Proficient in Data
+- 🌱 I’m a certified Data Analyst from Simplilearn in collaboration with IBM 
 - 📫 How to reach me @shalinisagara1994@gmail.com
 
 <!---
