@@ -1,3 +1,4 @@
+![logo](https://github.com/Shalini-us/Shalini-us/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shalini US</h1>
 <h3 align="center">A passionate Data Analyst from Bengaluru</h3>
 
